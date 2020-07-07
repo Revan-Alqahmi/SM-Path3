@@ -1,0 +1,35 @@
+
+First 
+
+• I downloaded VirtualBox and then opened the VirtualBoxEXE file where it was downloaded. Then I installed it like any other program by choosing Next, then Install and Exit. 
+
+Secondly 
+
+• I downloaded Ubuntu without opening it Third 
+
+• I opened VirtualBox and selected New to create a virtual machine. Then I wrote Ubuntu in the name box and the program recognized the file automatically, then I clicked Next and I changed nothing. 
+
+• After creating Ubuntu, I clicked Settings, then System, then Processor, and moved the CPU pointer halfway to double up the system.
+
+• Then i click on Storage then Empty then choose a disk file and then i choose the Ubuntu file i downloaded
+
+Fourthly
+
+• I clicked on “Start” window appeared to choose the system language, then clicked “Install Ubuntu”. Several windows appeared. I continued by clicking “Continue and install now” and entered the required data until the “Welcome to Ubuntu” window appeared. 
+
+• I waited several minutes and Ubuntu was installed on VirtualBox 
+
+• Upon completion, a window asking to restart appears by clicking on restart 
+
+• Then a welcome window appeared, so I clicked skip 
+
+Fifthly 
+
+• After Ubuntu was installed on VirtualBox, I installed ROS 
+
+• I opened Terminal and typed the following command line wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod + x ./ros_install_noetic.sh && ./ros_install_noetic.sh
+
+ It is installed automatically 
+
+• I took the last step to confirm the installation of ROS by typing Rosversion-d in Terminal and it showed me neotic, which means that the installation is confirmed
+
