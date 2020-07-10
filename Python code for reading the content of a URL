@@ -1,0 +1,5 @@
+from urllib.request import urlopen 
+
+text= urlopen("http://internationaljournalofresearch.com/2020/06/12/quantum-computer/")
+
+print (str(text.read(),"utf-8"))
